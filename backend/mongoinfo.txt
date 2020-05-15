@@ -1,0 +1,5 @@
+connectionString="mongodb+srv://kensama:kensama123@cluster0-pbt6g.mongodb.net/test?
+password is kensama123
+the email is amineab203
+mongodb+srv://kensama:kensama123@cluster0-pbt6g.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://react123:react123@cluster0-rzcm7.mongodb.net/test?retryWrites=true&w=majority
